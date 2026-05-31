@@ -22,20 +22,20 @@ Record these timings during rehearsal, build your timeline, and let CHRONO handl
 
 ## Editions
 
-| Edition | Description | Features |
-|---|---|---|
-| **Standard** | Core features | TIMER · HISTORY · PREVIEW · EDIT |
-| **Enhanced** | Standard + REALTIME | All Standard features + REALTIME Mode + SETLIST |
-| **LTC** | Enhanced + LTC Sync | All Enhanced features + LTC Sync + Keyboard Shortcuts |
+| Edition | Version | Description | Features |
+|---|---|---|---|
+| **Standard** | β0010-STD.1.38.1 | Core features | TIMER · HISTORY · PREVIEW · EDIT |
+| **Enhanced** | β0010-ENH.1.40 | Standard + REALTIME | All Standard features + REALTIME Mode + SETLIST |
+| **LTC** | β0010.1.36 | Enhanced + LTC Sync | All Enhanced features + LTC Sync + Keyboard Shortcuts |
 
-👉 **[Purchase on Gumroad](https://gumroad.com/)** *(link to be added)*
+👉 **[Purchase on Gumroad](https://soundscope787.gumroad.com)**
 
 ---
 
 ## Key Features
 
 - **TIMER Mode** — Measure lap times in real time during rehearsal. Hit the LAP button at each cue point.
-- **HISTORY Mode** — Manage all past sessions in one place. Export and share data via JSON.
+- **HISTORY Mode** — Manage all past sessions in one place. Group sessions, assign GAIN/FADER values, add rich text notes, and print as a cue sheet. Export and share data via JSON.
 - **PREVIEW Mode** — Play back your recorded timeline. Countdown (3・2・1・GO) and screen flash alert you 5 seconds before each cue.
 - **EDIT Mode** — Edit lap times and labels directly on the spot.
 - **REALTIME Mode** *(Enhanced / LTC)* — Overwrite a pre-built session with live lap times during rehearsal.
